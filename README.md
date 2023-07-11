@@ -1,9 +1,10 @@
 # Vulkan API CMake template
 This is a start CMake project for learning Vulkan API. Here include GLFW, GLM and Vulkan
 
-#Installation
+# Installation
 
 - Clone this repositories
+- Install [Vulkan SDK](https://vulkan.lunarg.com/) in default folder
 - Clone repositories [GLFW](https://github.com/glfw/glfw.git) in folder external
 - Clone repositories [GLM](https://github.com/g-truc/glm.git) in folder external
 - Just use
