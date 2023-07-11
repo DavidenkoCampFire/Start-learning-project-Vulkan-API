@@ -1,14 +1,14 @@
 cmake_minimum_required(VERSION 3.27)
 
-set(PROJECT_NAME CampFireEngine)
+set(PROJECT_NAME TemplateVulkanAPI)
 project(${PROJECT_NAME})
 
-
+#Variable for include modules
 set(CMAKE_MODULE_PATH ${CMAKE_SOURCE_DIR}/cmake/include
     ${CMAKE_SOURCE_DIR}/cmake/modules
     ${CMAKE_SOURCE_DIR})
 
-
+#include Vulkan, GLFM, GLM
 include(includeLibraries)
 
 
