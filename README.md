@@ -9,4 +9,4 @@ This is a start CMake project for learning Vulkan API. Here include GLFW, GLM an
 - Just use
 
 
-For fast start project on Windows, use .bat flies in Folder batCompile
+For fast build project on Windows, use .bat flies in Folder batCompile
